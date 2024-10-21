@@ -10,7 +10,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="47dp"
         android:background="#D3D0D0"
         android:backgroundTint="#22E7D5"
         android:text="QUẢN LÝ SINH VIÊN"
@@ -143,6 +143,6 @@
     <ListView
         android:id="@+id/lv"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_weight="1" />
 </LinearLayout>
