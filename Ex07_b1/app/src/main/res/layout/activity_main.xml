@@ -71,7 +71,7 @@
         <Button
             android:id="@+id/btnkq"
             android:layout_width="148dp"
-            android:layout_height="wrap_content"
+            android:layout_height="58dp"
             android:layout_gravity="center"
             android:background="#BFBDBD"
             android:backgroundTint="#A8A5A5"
