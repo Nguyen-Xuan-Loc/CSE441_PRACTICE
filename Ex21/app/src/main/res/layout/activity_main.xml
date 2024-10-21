@@ -8,8 +8,8 @@
 
     <Button
         android:id="@+id/btnparse"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="159dp"
+        android:layout_height="87dp"
         android:text="PARSE JSON" />
 
     <ListView
