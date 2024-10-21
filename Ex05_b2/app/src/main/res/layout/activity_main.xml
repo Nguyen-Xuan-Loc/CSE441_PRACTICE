@@ -128,7 +128,7 @@
         <TextView
             android:id="@+id/txtkq"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="49dp"
             android:layout_span="4"
             android:background="#81C784"
             android:backgroundTint="#1E9924"
